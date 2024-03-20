@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          ただいま開発中です！！
+          ただいま開発中…
         </a>
       </header>
     </div>
